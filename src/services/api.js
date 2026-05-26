@@ -5,7 +5,7 @@ import axios from "axios";
 const api = axios.create({
 
   // Backend base URL
-  baseURL: "https://book-management-system-t2q1.onrender.com/",
+  baseURL: "https://book-management-system-t2q1.onrender.com",
 });
 
 // Export api instance
